@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid='PASTE_32_LETTER_EXTENSION_ID_HERE'>
+    <updatecheck codebase='https://resideresidential.github.io/Edge-Extensions/therap-receipt-uploader.crx' version='1.8.4' />
+  </app>
+</gupdate>
