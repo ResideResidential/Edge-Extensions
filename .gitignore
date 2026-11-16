@@ -1,0 +1,2 @@
+# Never commit the private keys used to pack the extensions.
+*.pem
