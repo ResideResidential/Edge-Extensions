@@ -6,4 +6,7 @@
   <app appid='djjaimnggaapmooealilnikiidakidpg'>
     <updatecheck codebase='https://resideresidential.github.io/Edge-Extensions/therap-ledger-checker.crx' version='1.3.8' />
   </app>
+  <app appid='bdijikkgckcfmenegipgemmfnjgokbco'>
+    <updatecheck codebase='https://resideresidential.github.io/Edge-Extensions/truelink-receipt-checker.crx' version='1.8.1' />
+  </app>
 </gupdate>

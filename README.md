@@ -6,6 +6,7 @@ Reside Residential's Microsoft Edge extensions, hosted here with GitHub Pages so
 |---|---|---|---|
 | Therap Receipt Uploader | `therap-receipt-uploader.crx` | 1.8.4 | `jaagbiajmmmnhpepnocdhljdpjikflih` |
 | Therap Ledger Checker | `therap-ledger-checker.crx` | 1.3.8 | `djjaimnggaapmooealilnikiidakidpg` |
+| TrueLink Receipt Checker | `truelink-receipt-checker.crx` | 1.8.1 | `bdijikkgckcfmenegipgemmfnjgokbco` |
 
 ## Files
 
@@ -22,7 +23,13 @@ jaagbiajmmmnhpepnocdhljdpjikflih;https://resideresidential.github.io/Edge-Extens
 djjaimnggaapmooealilnikiidakidpg;https://resideresidential.github.io/Edge-Extensions/update.xml
 ```
 
-Both use the same `update.xml`.
+All three use the same `update.xml`.
+
+The TrueLink Receipt Checker is for the finance office only, so it is not in the list above. To install it on one computer through Intune, add this line in a policy assigned to just that computer or user:
+
+```
+bdijikkgckcfmenegipgemmfnjgokbco;https://resideresidential.github.io/Edge-Extensions/update.xml
+```
 
 ## Releasing an update
 
