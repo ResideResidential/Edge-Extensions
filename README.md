@@ -6,7 +6,7 @@ Reside Residential's Microsoft Edge extensions, hosted here with GitHub Pages so
 |---|---|---|---|
 | Therap Receipt Uploader | `therap-receipt-uploader.crx` | 1.8.4 | `jaagbiajmmmnhpepnocdhljdpjikflih` |
 | Therap Ledger Checker | `therap-ledger-checker.crx` | 1.3.8 | `djjaimnggaapmooealilnikiidakidpg` |
-| TrueLink Receipt Checker | `truelink-receipt-checker.crx` | 1.9.0 | `bdijikkgckcfmenegipgemmfnjgokbco` |
+| TrueLink Receipt Checker | `truelink-receipt-checker.crx` | 1.9.1 | `bdijikkgckcfmenegipgemmfnjgokbco` |
 
 ## Files
 
